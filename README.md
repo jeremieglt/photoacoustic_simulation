@@ -10,9 +10,9 @@ The repo is mostly based on the SIMPA toolkit by the DKFZ (German Center for Can
 
 ## Setup
 
-The simulation package has to be installed manually from the Azure repository: 
-1. `git clone https://ithera-medical.visualstudio.com/DefaultCollection/Research/_git/photoacoustic-simulation`
-2. `cd photoacoustic-simulation`
+The simulation package has to be installed manually from the GitHub repository: 
+1. `git clone https://github.com/jeremieglt/photoacoustic_simulation`
+2. `cd photoacoustic_simulation`
 3. `git checkout main`
 4. `git pull`
 
